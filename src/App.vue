@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Cloudflare Pages(beta)"/>
+    <HelloWorld msg="Welcome to Cloudflare Pages(DO)"/>
   </div>
 </template>
 
